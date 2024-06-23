@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 body{
     margin: 0;
     padding: 0;
@@ -9,6 +11,7 @@ body{
     justify-content: space-evenly;
     height: 100vh;
     width: 100%;
+    font-family: "Roboto";
 }
 /*-------------titulo----------------*/
 header h1{
@@ -75,6 +78,7 @@ input:hover{
     padding: 5px;
     border-radius: 5px;
     box-shadow: 0 0  5px #b3cceb;
+    font-weight: bold;
 }
 .seis a {
     background-color: #0c5ec1;
@@ -83,3 +87,7 @@ input:hover{
     border-radius: 5px;
 }
 /*---------------------------Navegador dos-------------------------*/
+.none{
+    width: 23%;
+    margin: 15px 0px;
+}
