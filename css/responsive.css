@@ -1,0 +1,19 @@
+@media screen and (max-width:1024px){
+    .items a{
+        font-size: 0.8rem;
+    }
+    input{
+        font-size: 0.8rem;
+    }
+}
+@media screen and (max-width:768px){
+    .lista{
+        flex-direction: column;
+    }
+    .items a{
+        font-size: 0.7rem;
+    }
+    input{
+        font-size: 0.7rem;
+    }
+}
