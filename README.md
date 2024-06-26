@@ -1,4 +1,4 @@
-##Interfaz de usuario de la barra de navegación
+### Interfaz de usuario de la barra de navegación
   
 Con pestaña de búsqueda:
 Incluye un logotipo o nombre de marca “Supyrzz”.
@@ -14,5 +14,5 @@ Resolucion 1024px:
 Resulocion 768px:
 <img src="img/Captura-2.png">
   
-Resolucion 400px:
-<img src="img/Captura-3.png">
+Resolucion 400px: <br>
+<img src="img/Captura-3.png"> 
