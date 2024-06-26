@@ -7,7 +7,7 @@ Un campo de entrada para búsqueda.<br>
 Enlaces adicionales para “Search”, “About”, “Download App”, “Register” y “Login”.<br>
 Sin pestaña de búsqueda:<br>
 Los mismos elementos que la variante anterior, excepto que no tiene el campo de búsqueda ni el enlace “Search” <br>
-###Estilos responsive <br>
+### Estilos responsive <br>
 En el siguiente apartado podemos visualizar los diferentes Estilos responsivos
 Resolucion 1024px:
 <img src="img/Captura-1.png">
